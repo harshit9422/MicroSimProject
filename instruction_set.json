@@ -1,0 +1,12 @@
+{
+  "MOV": "Move value to register: MOV R1 5",
+  "LOAD": "Load value from memory to register: LOAD R1 100",
+  "STORE": "Store value from register to memory: STORE R1 100",
+  "ADD": "Add two registers and store in destination: ADD R1 R2 R3",
+  "SUB": "Subtract two registers and store in destination: SUB R1 R2 R3",
+  "MUL": "Multiply two registers and store in destination: MUL R1 R2 R3",
+  "DIV": "Divide two registers and store in destination: DIV R1 R2 R3",
+  "AND": "Bitwise AND of two registers: AND R1 R2 R3",
+  "OR": "Bitwise OR of two registers: OR R1 R2 R3",
+  "XOR": "Bitwise XOR of two registers: XOR R1 R2 R3"
+}
