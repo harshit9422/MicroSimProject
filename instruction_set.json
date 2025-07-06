@@ -1,0 +1,9 @@
+[
+    { "opcode": "LOAD", "operands": ["R1", "100"] },
+    { "opcode": "LOAD", "operands": ["R2", "104"] },
+    { "opcode": "ADD", "operands": ["R3", "R1", "R2"] },
+    { "opcode": "SUB", "operands": ["R4", "R1", "R2"] },
+    { "opcode": "MUL", "operands": ["R5", "R1", "R2"] },
+    { "opcode": "DIV", "operands": ["R6", "R2", "R1"] },
+    { "opcode": "STORE", "operands": ["108", "R3"] }
+  ]
